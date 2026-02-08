@@ -5,7 +5,7 @@ using namespace std;
 #define vs vector<string>
 #define vi vector<int>
 #define vll vector<long long>
-#define f(i) for(int i=0; i<(i); i++)
+#define f(i, n) for(int i=(i); i<(n); i++)
 #define pii pair<int, int>
 
 vector<vector<bool>> rainha(int n){
